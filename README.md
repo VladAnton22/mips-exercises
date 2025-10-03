@@ -15,5 +15,25 @@ The goal of this repo is to:
 git clone https://github.com/VladAnton22/mips-exercises.git
 cd mips-exercises
 ```
-3. Open any .asm file in MARS
-4. Assemble and Run
+3. Make sure you have java installed and use `java -jar Mars4_5.jar` to open MARS
+4. Open the .asm file in MARS
+5. Assemble (F3) and Run (F5)
+
+## 📑 Program Descriptions
+
+### 1.Arithmetic (arithmetic.asm)
+*Demonstrates use of `$t` registers.
+*Performs addition, subtraction, multiplication, division.
+*Prints results via syscall.
+
+### 2.Memory (memory.asm)
+*Declares `.word` values in `data`.
+*Loads them with lw, stores result with `sw`.
+*Shows memory addressing basics.
+
+## ✨ Future Additions
+*Branching
+*Loops
+*Logical Operations
+*Strings
+*Procedures
