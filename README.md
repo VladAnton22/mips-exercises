@@ -22,18 +22,18 @@ cd mips-exercises
 ## 📑 Program Descriptions
 
 ### 1.Arithmetic (arithmetic.asm)
-*Demonstrates use of `$t` registers.
-*Performs addition, subtraction, multiplication, division.
-*Prints results via syscall.
+* Demonstrates use of `$t` registers.
+* Performs addition, subtraction, multiplication, division.
+* Prints results via syscall.
 
 ### 2.Memory (memory.asm)
-*Declares `.word` values in `data`.
-*Loads them with lw, stores result with `sw`.
-*Shows memory addressing basics.
+* Declares `.word` values in `data`.
+* Loads them with lw, stores result with `sw`.
+* Shows memory addressing basics.
 
 ## ✨ Future Additions
-*Branching
-*Loops
-*Logical Operations
-*Strings
-*Procedures
+* Branching
+* Loops
+* Logical Operations
+* Strings
+* Procedures
