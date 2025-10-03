@@ -2,7 +2,7 @@
 
 This repository contains a collection of small MIPS assembly programs written and tested in [MARS](https://computerscience.missouristate.edu/mars-mips-simulator.htm.)
 
-Each program demonstrates a fundamental concept of the MIPS instruction set: registers, memory, syscalls, arithmetic, branching, procedures, stack usage, and more.
+The exercises start slow, testing simple concepts that are vital for understanding the MIPS ISA. Each program demonstrates a fundamental concept of the MIPS instruction set: registers, memory, syscalls, arithmetic, branching, procedures, stack usage, and more.
 
 The goal of this repo is to:
 1. Serve as a study resource for exams/quizes in college.
