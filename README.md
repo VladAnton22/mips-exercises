@@ -11,7 +11,9 @@ The goal of this repo is to:
 ## 🚀 How to Run
 1. Install [MARS MIPS Simulator](https://computerscience.missouristate.edu/mars-mips-simulator.htm.)
 2. Clone this repo:
-  `git clone https://github.com/VladAnton22/mips-exercises.git
-   cd mips-exercises`
+```
+git clone https://github.com/VladAnton22/mips-exercises.git
+cd mips-exercises
+```
 3. Open any .asm file in MARS
 4. Assemble and Run
