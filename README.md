@@ -21,15 +21,20 @@ cd mips-exercises
 
 ## 📑 Program Descriptions
 
-### 1.Arithmetic (arithmetic.asm)
+### 1. Arithmetic (arithmetic.asm)
 * Demonstrates use of `$t` registers.
 * Performs addition, subtraction, multiplication, division.
 * Prints results via syscall.
 
-### 2.Memory (memory.asm)
+### 2. Memory (memory.asm)
 * Declares `.word` values in `data`.
 * Loads them with lw, stores result with `sw`.
 * Shows memory addressing basics.
+
+### 3. Branching (branching.asm)
+* Reads integer input.
+* Uses `beq` to decide if number is even or odd.
+* Prints result
 
 ## ✨ Future Additions
 * Branching
